@@ -1,0 +1,5 @@
+1.It provide more flexibility  to construct immutable class object
+     -- If there are multiple optional property available in the immutable class we end up
+     -- creating multiple constructor.
+     --- Builder design pattern help us to solve the above problem.
+2.Builder design pattern is used to build a complex object step by step
