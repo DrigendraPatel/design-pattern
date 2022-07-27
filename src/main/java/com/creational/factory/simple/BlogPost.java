@@ -1,4 +1,4 @@
-package com.creational.simple.factory;
+package com.creational.factory.simple;
 
 public class BlogPost extends Post{
 

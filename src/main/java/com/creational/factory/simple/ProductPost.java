@@ -1,4 +1,4 @@
-package com.creational.simple.factory;
+package com.creational.factory.simple;
 
 
 /**
