@@ -1,6 +1,6 @@
-package com.creational.factory.headfirst.simplefactory;
+package com.creational.simplefactory;
 
-public class OrderPizza {
+public class PizzaStore {
 
     public static Pizza  orderPizza(String type){
         Pizza pizza=SimplePizzaFactory.createPizza(type);

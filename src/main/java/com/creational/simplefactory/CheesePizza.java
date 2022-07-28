@@ -1,4 +1,4 @@
-package com.creational.factory.headfirst.simplefactory;
+package com.creational.simplefactory;
 
 public class CheesePizza implements Pizza{
     @Override

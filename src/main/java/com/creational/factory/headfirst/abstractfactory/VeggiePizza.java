@@ -1,6 +1,6 @@
-package com.creational.factory.headfirst.simplefactory;
+package com.creational.factory.headfirst.abstractfactory;
 
-public class VeggiePizza implements Pizza{
+public class VeggiePizza implements Pizza {
     @Override
     public void prepare() {
         System.out.println("VeggiePizza prepare");

@@ -1,4 +1,4 @@
-package com.creational.factory.headfirst.simplefactory;
+package com.creational.factory.headfirst.abstractfactory;
 
 public interface Pizza {
     public void prepare();
